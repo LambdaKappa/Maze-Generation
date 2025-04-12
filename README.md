@@ -8,4 +8,5 @@ You can customize the size of the map in the settings file. Maps with the size o
 
 # Requirements
 PyGame and Numpy modules are requred to be installed for the application to run. 
+
 Exact versions are listed in the requirements.txt file in this folder.
